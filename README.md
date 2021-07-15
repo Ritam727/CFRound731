@@ -1,0 +1,1 @@
+# These are my solutions to Questions A through E for Codeforces round 731 (div 3)
